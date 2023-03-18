@@ -1,0 +1,16 @@
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/icudtl.dat
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/flutter_windows.dll
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/assets/images/amazon_in.png
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/assets/images/appliances.jpeg
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/assets/images/books.jpeg
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/assets/images/electronics.jpeg
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/assets/images/essentials.jpeg
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/assets/images/fashion.jpeg
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/assets/images/mobiles.jpeg
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+G:/FlutterProjects/Amzon Clone/amazon_clone/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

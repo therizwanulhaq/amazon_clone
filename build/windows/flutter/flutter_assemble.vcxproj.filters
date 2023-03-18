@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\FlutterProjects\Amzon Clone\amazon_clone\build\windows\CMakeFiles\dc7f16079ddf99db5fedd03588f5d6b8\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\FlutterProjects\Amzon Clone\amazon_clone\build\windows\CMakeFiles\a52318b36903f59085cfaa8a6d6a25ab\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\FlutterProjects\Amzon Clone\amazon_clone\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\FlutterProjects\Amzon Clone\amazon_clone\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F82E10B7-6FAA-3344-96C6-CA45727E85FC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
